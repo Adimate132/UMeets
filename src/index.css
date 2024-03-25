@@ -1,0 +1,17 @@
+
+body, html {
+  --background: #457B9D;
+  --inner-bg: #A8DADC;
+  --accent1: #F1FAEE;
+  --accent2: #1D3557;
+  height: 100vh;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+
+  background-color: var(--background);
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
